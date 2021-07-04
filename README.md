@@ -1,7 +1,23 @@
 # fruitify
 Machine Learning Model to Classiify 131 Classes of Fruits and Vegetables
 
-You can read the approach in [this](https://github.com/ishandutta0098/fruitify/blob/main/fruitify-writeup.pdf) file.
+## Project Structure
+```
+├── images                  -> images used in README.md  
+│   
+├── src
+│   ├── config.py           -> Global Configuration        
+│   ├── dataset.py          -> PyTorch Datasets and DataLoaders             
+│   ├── inference.py        -> Inference Pipeline                  
+│   ├── model_resnet18.py   -> Resnet18 Model Definition                   
+│   ├── model_vgg16.py      -> VGG16 Model Definition
+│   ├── train.py            -> Training Pipeline
+│   └── utils.py            -> Utility Scripts                
+│
+├── README.md               -> README File
+│
+└── fruitify-writeup.pdf    -> Approach, Project Steps and Results
+```
 
 ## About the Data
 The models are trained on the [Fruits 360 dataset](https://www.kaggle.com/moltean/fruits) from Kaggle.  
