@@ -35,7 +35,6 @@ test_dataset = datasets.ImageFolder(
     transform = test_transforms
 )
 
-
 train_dataloader = DataLoader(
     train_dataset,
     batch_size = config.BATCH_SIZE,
