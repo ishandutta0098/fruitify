@@ -15,12 +15,3 @@ The models are trained on the [Fruits 360 dataset](https://www.kaggle.com/moltea
 Two models have been implemented.
 1. [VGG-16]()
 2. [ResNet-18]()
-
-## Results
-+-------------------------+-----------+---------------+
-|   Observations/Models   |   VGG16   |   ResNet-18   |
-+-------------------------+-----------+---------------+
-|   Training Time (mins)  |           |       43      |
-|   Test Accuracy         |           |       96.8    |
-|   Epochs                |           |       10      |
-+-------------------------+-----------+---------------+
