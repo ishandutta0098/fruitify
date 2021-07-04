@@ -13,5 +13,7 @@ The models are trained on the [Fruits 360 dataset](https://www.kaggle.com/moltea
 
 ## Models
 Two models have been implemented.
-1. [VGG-16]()
-2. [ResNet-18]()
+1. [VGG-16](https://github.com/ishandutta0098/fruitify/blob/main/src/model_vgg16.py)
+2. [ResNet-18](https://github.com/ishandutta0098/fruitify/blob/main/src/model_resnet18.py)
+
+![](https://github.com/ishandutta0098/fruitify/blob/main/images/results.png)
