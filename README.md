@@ -1,6 +1,8 @@
 # fruitify
 Machine Learning Model to Classiify 131 Classes of Fruits and Vegetables
 
+You can read the approach in [this](https://github.com/ishandutta0098/fruitify/blob/main/fruitify-writeup.pdf) file.
+
 ## About the Data
 The models are trained on the [Fruits 360 dataset](https://www.kaggle.com/moltean/fruits) from Kaggle.  
 `Version: 2020.05.18.0`  
